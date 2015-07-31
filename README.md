@@ -6,7 +6,7 @@ A simple EmberCLI blogging app following along with this <a href="https://www.yo
 ###To open the site locally run the following code:
 
 ```
-git clone https://github.com/adammcfadden/groovy-movies.git
+git clone https://github.com/adammcfadden/blogger9k.git
 ember s
 ```
 
